@@ -16,9 +16,9 @@
 
 ## 📌 Overview
 
-This project is a **production-style E-Commerce backend system** designed to simulate real-world online shopping platforms.
+This is a full-stack E-Commerce application built using Spring Boot, designed to simulate real-world online shopping systems.
 
-It supports **user authentication, product management, cart operations, and order processing**, following a clean and scalable architecture.
+It includes core functionalities like authentication, product management, cart operations, and order processing using a scalable layered architecture.
 
 ---
 
