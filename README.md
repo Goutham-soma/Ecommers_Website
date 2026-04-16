@@ -124,15 +124,19 @@ mvn spring-boot:run
 
 ### 🏠 Home Page
 
-![Home](screenshots/loginPage.png)
+![Home](screenshots/homePage.png)
 
 ### 🛒 Cart Page
 
-![Cart](https://via.placeholder.com/800x400?text=Cart+Page)
+![Cart](screenshots/cartPage.png)
 
 ### 🔐 Login Page
 
-![Login](https://via.placeholder.com/800x400?text=Login+Page)
+![Login](screenshots/loginPage.png)
+
+### Order Page
+
+![Login](screenshots/myOrderPage.png)
 
 ---
 
