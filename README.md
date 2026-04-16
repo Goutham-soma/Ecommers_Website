@@ -122,17 +122,17 @@ mvn spring-boot:run
 
 ## 📸 Screenshots
 
-### 🏠 Home Page
+### Login Page
+
+![Login](screenshots/loginPage.png)
+
+### Home Page
 
 ![Home](screenshots/homePage.png)
 
-### 🛒 Cart Page
+### Cart Page
 
 ![Cart](screenshots/cartPage.png)
-
-### 🔐 Login Page
-
-![Login](screenshots/loginPage.png)
 
 ### Order Page
 
